@@ -51,7 +51,7 @@ Check your mcc and mnc using this [list][mcclist]
 python server.py
 ```
 
-   [yowsup]: <https://https://github.com/tgalal/yowsup>
+   [yowsup]: <https://github.com/tgalal/yowsup>
    [mcclist]: <http://mcclist.com/mobile-network-codes-country-codes.asp>
 
 
